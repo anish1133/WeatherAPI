@@ -76,7 +76,7 @@ To set up and run the Weather App locally, follow these instructions:
         - Wind speed
         - Humidity
         - Cloudiness
-##Structure
+## Structure
    weather-app/
    ├── index.html          # Main HTML file
    ├── style.css           # CSS file for styling
