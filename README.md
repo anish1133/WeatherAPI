@@ -1,4 +1,4 @@
-# Weather App
+# Weather Status
 
 A simple web-based weather application that allows users to get current weather information for their location or any city around the world. The app uses the OpenWeatherMap API to fetch weather data and displays it in an easy-to-read format.
 
